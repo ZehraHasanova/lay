@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    align-items: center;
+    height: 100px;
+
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.box1{
+    background-color: rgb(241, 92, 92);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+.box2{
+    background-color: rgb(123, 123, 245);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+.box3{
+    background-color:rgb(197, 165, 22);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 60%;
+}
+.box4{
+    background-color: rgb(213, 69, 16);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    
+}
+.box5{
+    background-color: rgb(207, 10, 158);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+    float: right;
+    width: 40%;
+    
+    
+}
+.box6{
+    background-color: rgb(154, 139, 139);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+    
+}
+
